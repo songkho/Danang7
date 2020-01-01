@@ -46,7 +46,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private InterstitialAd mInterstitialAd;
 
-    private InterstitialAd mInterstitialAd2;
 
 
 
