@@ -13,7 +13,7 @@ public class air_hotel_3 extends Activity {
     private AdView mAdView;
 
 /// g하이 노트북
-
+//집컴
     //노트북
     @Override
 
