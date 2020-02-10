@@ -12,7 +12,7 @@ public class air_hotel_3 extends Activity {
 
     private AdView mAdView;
 
-
+/// g하이 노트북
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

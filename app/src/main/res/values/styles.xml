@@ -28,7 +28,7 @@
 
         <style name="SplashTheme" parent="@android:style/Theme.NoTitleBar.Fullscreen">
         <!--<item name="android:windowBackground">@mipmap/lsp2</item>-->
-        <item name="android:windowBackground">@drawable/d_loading</item>
+        <item name="android:windowBackground">@drawable/d_loading_5</item>
 
         </style>
 
